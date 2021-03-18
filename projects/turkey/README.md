@@ -1,6 +1,6 @@
 # Turkey
 
-This project is configured to download/prepare/build a complete Pelias installation for Germany.
+This project is configured to download/prepare/build a complete Pelias installation for Turkey.
 
 # Setup
 
